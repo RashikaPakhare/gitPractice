@@ -7,6 +7,9 @@ function App() {
      <div style= {{backgroundColor: "black"}}>
       hiiiiiiiiii
      </div>
+      <header className="App-header">
+        Helle worlld
+      </header>
     </div>
   );
 }
