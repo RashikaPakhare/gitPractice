@@ -3,13 +3,16 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div  className="App-header">
      <div style= {{backgroundColor: "black"}}>
       hiiiiiiiiii
      </div>
-      <header className="App-header">
+      <header>
         Helle worlld
       </header>
+      <div>
+        don't know what nezxy syep is goping to be.
+      </div>
     </div>
   );
 }
